@@ -30,7 +30,7 @@ const colors = [
 
 const assets = [
   ['/vinyl_blue.png','/cwalk/black_disc.png','/courtside/disc_vinyl.png','/makingmemories/disc.png','/ireallydo/disc.png'],
-  ['/strip.png','/cwalk/black_strips.png','/courtside/stripi.png','/makingmemories/strips.jpeg','/ireallydo/strips.png'],
+  ['/Strip.png','/cwalk/black_strips.png','/courtside/stripi.png','/makingmemories/strips.jpeg','/ireallydo/strips.png'],
   ['/tellme/cat.png','/cwalk/black_cat.png','/courtside/miniature.png','/makingmemories/butterfly.png','/ireallydo/birds.png'],
   ['/tellme/drum.png','/cwalk/guitars.png','/courtside/shinyball.png','/makingmemories/casette.png','/ireallydo/cat.png'],
   ['/tellme/drumsticks.png','/cwalk/black_headphones.png','/courtside/shinybutterfly.png','/makingmemories/cat.png','/ireallydo/clocks.png'],
