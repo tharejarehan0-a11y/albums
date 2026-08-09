@@ -1,6 +1,7 @@
 # HI THERE
 
 **Welcome to a project i built overnight like with only lik 2% ai for 3 bug fixes that is it nothing else other all were google searches i tried not to look at what gemini throws out but sometimes that js gave the answer . This is a project i will be building upon in the future as much as i can . This will turn out to be one of the cool projects as far as i can see come let me guide u thru what is it , what it includes and why is it and what is the future of it** 
+<img width="1470" height="956" alt="Screenshot 2026-08-09 at 5 39 35 PM" src="https://github.com/user-attachments/assets/79f3eb46-7fa9-4aa5-a266-ac1c99bea4dc" />
 
 # WHY IS IT 
 
