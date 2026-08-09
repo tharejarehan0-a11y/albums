@@ -91,7 +91,7 @@ export default function Home() {
       
       <div className="absolute top-0">
         <div className="flex justify-start self-start place-self-start">
-          {/* Your strip images */}
+  
           {Array.from({ length: 13 }).map((_, i) => (
              <Image key={i} src={assets[1][songIndex]} height="200" width="200" alt="strip" loading='eager' className="h-auto w-auto rotate-90 mt-15" />
           ))}
@@ -125,17 +125,17 @@ export default function Home() {
         <Image src={assets[9][songIndex]} height="200" width="200" alt="piano" loading="eager" className="w-auto h-auto rotate-30 z-0" />
       </div>
 
-      <div className="flex justify-around mt-65">
+      <div className="flex justify-evenly mt-65">
         <div className="flex justify-center-items-center cursor-pointer" onClick={handleNextPoster}>
-          <Albumimg src={albums[coverIndex]} num={coverIndex + 1} />
+          <Albumimg src={albums[coverIndex]} num={coverIndex + 1}/>
         </div>
 
         <div 
-          className={`flex cursor-pointer ${isPlaying ? "stop" : ""}`} 
+          className={`flex justify-center items-center cursor-pointer ${isPlaying ? "stop" : ""}`} 
           onClick={handlePlayClick} 
           onDoubleClick={handlePauseDoubleClick}
         >
-          <Image src={assets[0][songIndex]} height="200" width="500" alt="vinylblue" loading="eager" className="z-1" />
+          <Image src={assets[0][songIndex]} height="50" width="200" alt="vinylblue" loading="eager" className="z-1 w-fit h-fit" />
         </div>
       </div>
 
