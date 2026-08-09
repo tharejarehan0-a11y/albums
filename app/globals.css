@@ -1,26 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lacquer&display=swap');
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+.lacquer{
+  font-family:"Lacquer";
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+.bebas{
+  font-family:"Bebas neue";
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.text{
+    text-shadow:-6px 6px 1px black;
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+.album-box{
+  box-shadow:20px 20px black;
 }
+
+.stop{
+  animation-name:makeround;
+  animation-duration:0.5s;
+  animation-iteration-count: infinite;
+}
+
+.dance{
+  animation-name:dancer;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+
+}
+.dance-opposite{
+  animation-name: dancer-opposite;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes makeround {
+  from{transform: rotate(0deg);}
+  to{transform: rotate(360deg);}
+}
+@keyframes dancer{
+  0%{transform:rotate(0deg);}
+  25%{transform:rotate(-20deg);}
+  50%{transform:rotate(0deg);}
+  75%{transform:rotate(-20deg)}
+  100%{transform:rotate(0deg)}
+}
+
+@keyframes dancer-opposite{
+  0%{transform:rotate(0deg);}
+  25%{transform:rotate(20deg);}
+  50%{transform:rotate(0deg);}
+  75%{transform:rotate(20deg)}
+  100%{transform:rotate(0deg)}
+}
+
+
