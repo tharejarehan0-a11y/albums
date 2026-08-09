@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# HI THERE
 
-## Getting Started
+**Welcome to a project i built overnight like with only lik 2% ai for 3 bug fixes that is it nothing else other all were google searches i tried not to look at what gemini throws out but sometimes that js gave the answer . This is a project i will be building upon in the future as much as i can . This will turn out to be one of the cool projects as far as i can see come let me guide u thru what is it , what it includes and why is it and what is the future of it** 
 
-First, run the development server:
+# WHY IS IT 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+**This has been in my mind from a past few weeks that why not make a website where i put my favourite music and people see it and enjoy a little bit of my music taste and maybe they explore my kinda music also cause personally me , I like listening to music a lot i can spend at least 2-3 hrs listening music and nothing else js listening it and dancing whole the day would complete the day for me and i think that is enough** 
+
+# WHAT IS IT 
+
+**It is basically a next project that u can run with the command below**
+
+terminal
+```
+npx create-next-app@latest
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**There are no extra dependencies that u will likely need after that what u can do is basically if u want to start from scratch and js build your own u are more than welcome to but if u want to build it upon this then u can js clone the repo and build upon that**
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+**This contains many assets that i used as png and also it has two components and a significant use of react and next tho it is a client side website but i will definately try to make it server side the next time i work upon this**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# WHAT IT INCLUDES
 
-## Learn More
+**Well basically it includes stuff that u will really like . It includes 5 songs of karan aujla right now but i will be adding more with time and the design is also pretty like new so doesnt have much content into and no lyrics there is a vinyl disc on which if you click it plays the song and if you double click it stops the song and if you click on the poster of the song the song changes there are lot of things to be improved yet tho**
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# WHAT IS THE FUTURE OF IT 
+**It has a pretty good future ahead thinking of adding more controls to it as much as i can and also a more interactive way of people interacting with it would be like really coool i want to beat ai and that will be my goal till i beat it and it will show thru this website's next version**
