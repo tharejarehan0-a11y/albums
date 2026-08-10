@@ -1,6 +1,8 @@
 # HI THERE
 
 **Welcome to a project i built overnight like with only lik 2% ai for 3 bug fixes that is it nothing else other all were google searches i tried not to look at what gemini throws out but sometimes that js gave the answer . This is a project i will be building upon in the future as much as i can . This will turn out to be one of the cool projects as far as i can see come let me guide u thru what is it , what it includes and why is it and what is the future of it** 
+<img width="1470" height="956" alt="Screenshot 2026-08-10 at 2 34 18 AM" src="https://github.com/user-attachments/assets/5cb958c1-80b4-4f5b-b486-326644f69cfb" />
+
 
 # WHY IS IT 
 
@@ -25,3 +27,13 @@ npx create-next-app@latest
 
 # WHAT IS THE FUTURE OF IT 
 **It has a pretty good future ahead thinking of adding more controls to it as much as i can and also a more interactive way of people interacting with it would be like really coool i want to beat ai and that will be my goal till i beat it and it will show thru this website's next version**
+
+
+<img width="1470" height="956" alt="Screenshot 2026-08-10 at 2 38 56 AM" src="https://github.com/user-attachments/assets/ae5f30cf-f3b1-4be4-8809-57b54e139426" />
+<img width="1470" height="956" alt="Screenshot 2026-08-10 at 2 38 49 AM" src="https://github.com/user-attachments/assets/9c54f556-66d2-4802-bbb9-dfd4e7283c2a" />
+<img width="1470" height="956" alt="Screenshot 2026-08-10 at 2 38 43 AM" src="https://github.com/user-attachments/assets/ffeeed92-d831-40d3-bb37-1b4b7af3ac4e" />
+<img width="1470" height="956" alt="Screenshot 2026-08-10 at 2 38 34 AM" src="https://github.com/user-attachments/assets/624c1710-036f-421d-88a9-a93f3b804849" />
+<img width="1470" height="956" alt="Screenshot 2026-08-10 at 2 38 26 AM" src="https://github.com/user-attachments/assets/6508eaaa-e4fc-4587-b3d0-212080039d03" />
+<img width="1470" height="956" alt="Screenshot 2026-08-10 at 2 38 12 AM" src="https://github.com/user-attachments/assets/0f39f27d-4d7c-46be-b5b0-ff7e6b56b361" />
+<img width="1470" height="956" alt="Screenshot 2026-08-10 at 2 38 04 AM" src="https://github.com/user-attachments/assets/76868198-f0b4-494a-a048-5d94f85b94d3" />
+
